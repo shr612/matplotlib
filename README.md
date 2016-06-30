@@ -1,2 +1,1 @@
-# matplotlib
-python matplot lib examples
+# matplotlib-examples
